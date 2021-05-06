@@ -1,7 +1,6 @@
 import Globe from 'react-globe.gl';
 import { useState, useEffect, useRef, useMemo } from 'react';
 import * as d3 from 'd3';
-import covidStats from './covidStats.json'
 var cors = require('cors')
 
 function App() {
@@ -12,13 +11,13 @@ function App() {
 
     useEffect(() => {
       // load data
-      fetch('./ne_110m_admin_0_countries.geojson').then(res => res.json()).then(setCountries);
+      fetch('./covid.geojson').then(res => res.json()).then(setCountries);
     }, []);
 
     const colorScale = d3.scaleSequentialSqrt(d3.interpolateYlOrRd);
 
     // GDP per capita (avoiding countries with small pop)
-    const getVal = feat => feat.properties.GDP_MD_EST / Math.max(1e5, feat.properties.POP_EST);
+    const getVal = feat => feat.properties.infection / Math.max(1e5, feat.properties.POP_EST);
 
     const maxVal = useMemo(
       () => Math.max(...countries.features.map(getVal)),
@@ -37,9 +36,9 @@ function App() {
       polygonSideColor={() => 'rgba(0, 100, 0, 0.15)'}
       polygonStrokeColor={() => '#111'}
       polygonLabel={({ properties: d }) => `
-        <b>${d.ADMIN} (${d.ISO_A2}):</b> <br />
-        GDP: <i>${d.GDP_MD_EST}</i> M$<br/>
-        Population: <i>${d.POP_EST}</i>
+        <b >${d.COUNTRY} (${d.ISO_A2}):</b> <br />
+        <i style="color:red;">infection count: ${d.infection}</i><br/>
+        <i>Population: ${d.POP_EST}</i>
       `}
       onPolygonHover={setHoverD}
       polygonsTransitionDuration={300}
