@@ -7,7 +7,10 @@
         "COUNTRY": "Afghanistan",
         "ISO_A2": "AF",
         "POP_EST": 34124811,
-        "infection": 60797.0
+        "infection": 60797.0,
+        "total_vaccinations": 504502.0,
+        "people_vaccinated": 448878.0,
+        "people_fully_vaccinated": 55624.0
       },
       "geometry": {
         "type": "Polygon",
@@ -299,7 +302,10 @@
         "COUNTRY": "Angola",
         "ISO_A2": "AO",
         "POP_EST": 29310273,
-        "infection": 27529.0
+        "infection": 27529.0,
+        "total_vaccinations": 626572.0,
+        "people_vaccinated": 586377.0,
+        "people_fully_vaccinated": 40195.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -621,7 +627,10 @@
         "COUNTRY": "Albania",
         "ISO_A2": "AL",
         "POP_EST": 3047987,
-        "infection": 131419.0
+        "infection": 131419.0,
+        "total_vaccinations": 632676.0,
+        "people_vaccinated": 444755.0,
+        "people_fully_vaccinated": 187921.0
       },
       "geometry": {
         "type": "Polygon",
@@ -733,7 +742,10 @@
         "COUNTRY": "United Arab Emirates",
         "ISO_A2": "AE",
         "POP_EST": 6072475,
-        "infection": 529220.0
+        "infection": 529220.0,
+        "total_vaccinations": 11422565.0,
+        "people_vaccinated": 5081853.0,
+        "people_fully_vaccinated": 3836521.0
       },
       "geometry": {
         "type": "Polygon",
@@ -837,7 +849,10 @@
         "COUNTRY": "Argentina",
         "ISO_A2": "AR",
         "POP_EST": 44293293,
-        "infection": 3071496.0
+        "infection": 3071496.0,
+        "total_vaccinations": 9541511.0,
+        "people_vaccinated": 7912175.0,
+        "people_fully_vaccinated": 1629336.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1343,7 +1358,10 @@
         "COUNTRY": "Armenia",
         "ISO_A2": "AM",
         "POP_EST": 3045191,
-        "infection": 217900.0
+        "infection": 217900.0,
+        "total_vaccinations": 10727.0,
+        "people_vaccinated": 10727.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -1439,7 +1457,10 @@
         "COUNTRY": "Australia",
         "ISO_A2": "AU",
         "POP_EST": 23232413,
-        "infection": 29884.0
+        "infection": 29884.0,
+        "total_vaccinations": 2894770.0,
+        "people_vaccinated": 159294.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2425,7 +2446,10 @@
         "COUNTRY": "Austria",
         "ISO_A2": "AT",
         "POP_EST": 8754413,
-        "infection": 626239.0
+        "infection": 626239.0,
+        "total_vaccinations": 3880377.0,
+        "people_vaccinated": 2856492.0,
+        "people_fully_vaccinated": 1032825.0
       },
       "geometry": {
         "type": "Polygon",
@@ -2589,7 +2613,10 @@
         "COUNTRY": "Azerbaijan",
         "ISO_A2": "AZ",
         "POP_EST": 9961396,
-        "infection": 323841.0
+        "infection": 323841.0,
+        "total_vaccinations": 1748525.0,
+        "people_vaccinated": 1019352.0,
+        "people_fully_vaccinated": 729173.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2787,7 +2814,10 @@
         "COUNTRY": "Burundi",
         "ISO_A2": "BI",
         "POP_EST": 11466756,
-        "infection": 4069.0
+        "infection": 4069.0,
+        "total_vaccinations": 0.0,
+        "people_vaccinated": 0.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -2855,7 +2885,10 @@
         "COUNTRY": "Belgium",
         "ISO_A2": "BE",
         "POP_EST": 11491346,
-        "infection": 1003746.0
+        "infection": 1003746.0,
+        "total_vaccinations": 4979001.0,
+        "people_vaccinated": 3809834.0,
+        "people_fully_vaccinated": 1196831.0
       },
       "geometry": {
         "type": "Polygon",
@@ -2939,7 +2972,10 @@
         "COUNTRY": "Benin",
         "ISO_A2": "BJ",
         "POP_EST": 11038805,
-        "infection": 7884.0
+        "infection": 7884.0,
+        "total_vaccinations": 10683.0,
+        "people_vaccinated": 10683.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -3055,7 +3091,10 @@
         "COUNTRY": "Burkina Faso",
         "ISO_A2": "BF",
         "POP_EST": 20107509,
-        "infection": 13345.0
+        "infection": 13345.0,
+        "total_vaccinations": 0.0,
+        "people_vaccinated": 0.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -3227,7 +3266,10 @@
         "COUNTRY": "Bangladesh",
         "ISO_A2": "BD",
         "POP_EST": 157826578,
-        "infection": 767338.0
+        "infection": 767338.0,
+        "total_vaccinations": 9316086.0,
+        "people_vaccinated": 5819900.0,
+        "people_fully_vaccinated": 3496186.0
       },
       "geometry": {
         "type": "Polygon",
@@ -3387,7 +3429,10 @@
         "COUNTRY": "Bulgaria",
         "ISO_A2": "BG",
         "POP_EST": 7101510,
-        "infection": 407827.0
+        "infection": 407827.0,
+        "total_vaccinations": 1073523.0,
+        "people_vaccinated": 685543.0,
+        "people_fully_vaccinated": 387980.0
       },
       "geometry": {
         "type": "Polygon",
@@ -3515,7 +3560,10 @@
         "COUNTRY": "The Bahamas",
         "ISO_A2": "BS",
         "POP_EST": 329988,
-        "infection": 10576.0
+        "infection": 10576.0,
+        "total_vaccinations": 36000.0,
+        "people_vaccinated": 36000.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3625,7 +3673,10 @@
         "COUNTRY": "Bosnia and Herzegovina",
         "ISO_A2": "BA",
         "POP_EST": 3856181,
-        "infection": 199882.0
+        "infection": 199882.0,
+        "total_vaccinations": 106464.0,
+        "people_vaccinated": 83260.0,
+        "people_fully_vaccinated": 23204.0
       },
       "geometry": {
         "type": "Polygon",
@@ -3733,7 +3784,10 @@
         "COUNTRY": "Belarus",
         "ISO_A2": "BY",
         "POP_EST": 9549747,
-        "infection": 363732.0
+        "infection": 363732.0,
+        "total_vaccinations": 328500.0,
+        "people_vaccinated": 244000.0,
+        "people_fully_vaccinated": 84500.0
       },
       "geometry": {
         "type": "Polygon",
@@ -3929,7 +3983,10 @@
         "COUNTRY": "Belize",
         "ISO_A2": "BZ",
         "POP_EST": 360346,
-        "infection": 12680.0
+        "infection": 12680.0,
+        "total_vaccinations": 50292.0,
+        "people_vaccinated": 50292.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -4025,7 +4082,10 @@
         "COUNTRY": "Bolivia",
         "ISO_A2": "BO",
         "POP_EST": 11138234,
-        "infection": 310572.0
+        "infection": 310572.0,
+        "total_vaccinations": 1031197.0,
+        "people_vaccinated": 754525.0,
+        "people_fully_vaccinated": 276672.0
       },
       "geometry": {
         "type": "Polygon",
@@ -4281,7 +4341,10 @@
         "COUNTRY": "Brazil",
         "ISO_A2": "BR",
         "POP_EST": 207353391,
-        "infection": 14930183.0
+        "infection": 14930183.0,
+        "total_vaccinations": 50308106.0,
+        "people_vaccinated": 34092728.0,
+        "people_fully_vaccinated": 16215378.0
       },
       "geometry": {
         "type": "Polygon",
@@ -5109,7 +5172,10 @@
         "COUNTRY": "Brunei",
         "ISO_A2": "BN",
         "POP_EST": 443593,
-        "infection": 228.0
+        "infection": 228.0,
+        "total_vaccinations": 15905.0,
+        "people_vaccinated": 15043.0,
+        "people_fully_vaccinated": 862.0
       },
       "geometry": {
         "type": "Polygon",
@@ -5157,7 +5223,10 @@
         "COUNTRY": "Bhutan",
         "ISO_A2": "BT",
         "POP_EST": 758288,
-        "infection": 1144.0
+        "infection": 1144.0,
+        "total_vaccinations": 481978.0,
+        "people_vaccinated": 481978.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -5225,7 +5294,10 @@
         "COUNTRY": "Botswana",
         "ISO_A2": "BW",
         "POP_EST": 2214858,
-        "infection": 47851.0
+        "infection": 47851.0,
+        "total_vaccinations": 53375.0,
+        "people_vaccinated": 53375.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -5401,7 +5473,10 @@
         "COUNTRY": "Central African Republic",
         "ISO_A2": "CF",
         "POP_EST": 5625118,
-        "infection": 6521.0
+        "infection": 6521.0,
+        "total_vaccinations": 667.0,
+        "people_vaccinated": 667.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -5665,7 +5740,10 @@
         "COUNTRY": "Canada",
         "ISO_A2": "CA",
         "POP_EST": 35623680,
-        "infection": 1266249.0
+        "infection": 1266249.0,
+        "total_vaccinations": 17297879.0,
+        "people_vaccinated": 15961692.0,
+        "people_fully_vaccinated": 1336187.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8975,7 +9053,10 @@
         "COUNTRY": "Switzerland",
         "ISO_A2": "CH",
         "POP_EST": 8236303,
-        "infection": 667380.0
+        "infection": 667380.0,
+        "total_vaccinations": 3228403.0,
+        "people_vaccinated": 2155259.0,
+        "people_fully_vaccinated": 1073144.0
       },
       "geometry": {
         "type": "Polygon",
@@ -9087,7 +9168,10 @@
         "COUNTRY": "Chile",
         "ISO_A2": "CL",
         "POP_EST": 17789267,
-        "infection": 1222949.0
+        "infection": 1222949.0,
+        "total_vaccinations": 16246599.0,
+        "people_vaccinated": 8872132.0,
+        "people_fully_vaccinated": 7374467.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9565,7 +9649,10 @@
         "COUNTRY": "China",
         "ISO_A2": "CN",
         "POP_EST": 1379302771,
-        "infection": 102571.0
+        "infection": 102571.0,
+        "total_vaccinations": 366910000.0,
+        "people_vaccinated": 0.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10547,7 +10634,10 @@
         "COUNTRY": "Ivory Coast",
         "ISO_A2": "CI",
         "POP_EST": 24184810,
-        "infection": 46231.0
+        "infection": 46231.0,
+        "total_vaccinations": 292537.0,
+        "people_vaccinated": 292537.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -10747,7 +10837,10 @@
         "COUNTRY": "Cameroon",
         "ISO_A2": "CM",
         "POP_EST": 24994885,
-        "infection": 72250.0
+        "infection": 72250.0,
+        "total_vaccinations": 11000.0,
+        "people_vaccinated": 11000.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -11007,7 +11100,10 @@
         "COUNTRY": "Democratic Republic of the Congo",
         "ISO_A2": "CD",
         "POP_EST": 83301151,
-        "infection": 30130.0
+        "infection": 30130.0,
+        "total_vaccinations": 1700.0,
+        "people_vaccinated": 1700.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -11519,7 +11615,10 @@
         "COUNTRY": "Republic of the Congo",
         "ISO_A2": "CG",
         "POP_EST": 4954674,
-        "infection": 11016.0
+        "infection": 11016.0,
+        "total_vaccinations": 38151.0,
+        "people_vaccinated": 22531.0,
+        "people_fully_vaccinated": 15620.0
       },
       "geometry": {
         "type": "Polygon",
@@ -11731,7 +11830,10 @@
         "COUNTRY": "Colombia",
         "ISO_A2": "CO",
         "POP_EST": 47698524,
-        "infection": 2934611.0
+        "infection": 2934611.0,
+        "total_vaccinations": 6851163.0,
+        "people_vaccinated": 4238607.0,
+        "people_fully_vaccinated": 2612556.0
       },
       "geometry": {
         "type": "Polygon",
@@ -12147,7 +12249,10 @@
         "COUNTRY": "Costa Rica",
         "ISO_A2": "CR",
         "POP_EST": 4930258,
-        "infection": 260535.0
+        "infection": 260535.0,
+        "total_vaccinations": 1093931.0,
+        "people_vaccinated": 657301.0,
+        "people_fully_vaccinated": 436630.0
       },
       "geometry": {
         "type": "Polygon",
@@ -12307,7 +12412,10 @@
         "COUNTRY": "Cuba",
         "ISO_A2": "CU",
         "POP_EST": 11147407,
-        "infection": 111654.0
+        "infection": 111654.0,
+        "total_vaccinations": 70000.0,
+        "people_vaccinated": 70000.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -12491,7 +12599,10 @@
         "COUNTRY": "Northern Cyprus",
         "ISO_A2": "-99",
         "POP_EST": 265100,
-        "infection": 67982.0
+        "infection": 67982.0,
+        "total_vaccinations": 123791.0,
+        "people_vaccinated": 72644.0,
+        "people_fully_vaccinated": 51147.0
       },
       "geometry": {
         "type": "Polygon",
@@ -12571,7 +12682,10 @@
         "COUNTRY": "Cyprus",
         "ISO_A2": "CY",
         "POP_EST": 1221549,
-        "infection": 67982.0
+        "infection": 67982.0,
+        "total_vaccinations": 400004.0,
+        "people_vaccinated": 305274.0,
+        "people_fully_vaccinated": 94730.0
       },
       "geometry": {
         "type": "Polygon",
@@ -12647,7 +12761,10 @@
         "COUNTRY": "Czechia",
         "ISO_A2": "CZ",
         "POP_EST": 10674723,
-        "infection": 1639248.0
+        "infection": 1639248.0,
+        "total_vaccinations": 3991985.0,
+        "people_vaccinated": 2919036.0,
+        "people_fully_vaccinated": 1094296.0
       },
       "geometry": {
         "type": "Polygon",
@@ -12803,7 +12920,10 @@
         "COUNTRY": "Germany",
         "ISO_A2": "DE",
         "POP_EST": 80594017,
-        "infection": 3484755.0
+        "infection": 3484755.0,
+        "total_vaccinations": 38646171.0,
+        "people_vaccinated": 29891651.0,
+        "people_fully_vaccinated": 8822370.0
       },
       "geometry": {
         "type": "Polygon",
@@ -13051,7 +13171,10 @@
         "COUNTRY": "Djibouti",
         "ISO_A2": "DJ",
         "POP_EST": 865267,
-        "infection": 11268.0
+        "infection": 11268.0,
+        "total_vaccinations": 13042.0,
+        "people_vaccinated": 12547.0,
+        "people_fully_vaccinated": 495.0
       },
       "geometry": {
         "type": "Polygon",
@@ -13127,7 +13250,10 @@
         "COUNTRY": "Denmark",
         "ISO_A2": "DK",
         "POP_EST": 5605948,
-        "infection": 255181.0
+        "infection": 255181.0,
+        "total_vaccinations": 2543360.0,
+        "people_vaccinated": 1587022.0,
+        "people_fully_vaccinated": 956338.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13245,7 +13371,10 @@
         "COUNTRY": "Dominican Republic",
         "ISO_A2": "DO",
         "POP_EST": 10734247,
-        "infection": 268561.0
+        "infection": 268561.0,
+        "total_vaccinations": 2801356.0,
+        "people_vaccinated": 1984662.0,
+        "people_fully_vaccinated": 816694.0
       },
       "geometry": {
         "type": "Polygon",
@@ -13365,7 +13494,10 @@
         "COUNTRY": "Algeria",
         "ISO_A2": "DZ",
         "POP_EST": 40969443,
-        "infection": 123272.0
+        "infection": 123272.0,
+        "total_vaccinations": 75000.0,
+        "people_vaccinated": 0.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -13629,7 +13761,10 @@
         "COUNTRY": "Ecuador",
         "ISO_A2": "EC",
         "POP_EST": 16290913,
-        "infection": 393048.0
+        "infection": 393048.0,
+        "total_vaccinations": 1339196.0,
+        "people_vaccinated": 1066590.0,
+        "people_fully_vaccinated": 272606.0
       },
       "geometry": {
         "type": "Polygon",
@@ -13777,7 +13912,10 @@
         "COUNTRY": "Egypt",
         "ISO_A2": "EG",
         "POP_EST": 97041072,
-        "infection": 232905.0
+        "infection": 232905.0,
+        "total_vaccinations": 1371976.0,
+        "people_vaccinated": 1133956.0,
+        "people_fully_vaccinated": 238020.0
       },
       "geometry": {
         "type": "Polygon",
@@ -13969,7 +14107,10 @@
         "COUNTRY": "Eritrea",
         "ISO_A2": "ER",
         "POP_EST": 5918919,
-        "infection": 3707.0
+        "infection": 3707.0,
+        "total_vaccinations": 0.0,
+        "people_vaccinated": 0.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -14097,7 +14238,10 @@
         "COUNTRY": "Spain",
         "ISO_A2": "ES",
         "POP_EST": 48958159,
-        "infection": 3551262.0
+        "infection": 3551262.0,
+        "total_vaccinations": 21071940.0,
+        "people_vaccinated": 14555552.0,
+        "people_fully_vaccinated": 6716156.0
       },
       "geometry": {
         "type": "Polygon",
@@ -14317,7 +14461,10 @@
         "COUNTRY": "Estonia",
         "ISO_A2": "EE",
         "POP_EST": 1251581,
-        "infection": 123781.0
+        "infection": 123781.0,
+        "total_vaccinations": 566109.0,
+        "people_vaccinated": 391118.0,
+        "people_fully_vaccinated": 174991.0
       },
       "geometry": {
         "type": "Polygon",
@@ -14409,7 +14556,10 @@
         "COUNTRY": "Ethiopia",
         "ISO_A2": "ET",
         "POP_EST": 105350020,
-        "infection": 260139.0
+        "infection": 260139.0,
+        "total_vaccinations": 1420251.0,
+        "people_vaccinated": 0.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -14661,7 +14811,10 @@
         "COUNTRY": "Finland",
         "ISO_A2": "FI",
         "POP_EST": 5491218,
-        "infection": 87798.0
+        "infection": 87798.0,
+        "total_vaccinations": 2278754.0,
+        "people_vaccinated": 2031941.0,
+        "people_fully_vaccinated": 246813.0
       },
       "geometry": {
         "type": "Polygon",
@@ -14837,7 +14990,10 @@
         "COUNTRY": "Fiji",
         "ISO_A2": "FJ",
         "POP_EST": 920938,
-        "infection": 125.0
+        "infection": 125.0,
+        "total_vaccinations": 93000.0,
+        "people_vaccinated": 93000.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14951,7 +15107,10 @@
         "COUNTRY": "Falkland Islands",
         "ISO_A2": "FK",
         "POP_EST": 2931,
-        "infection": 63.0
+        "infection": 63.0,
+        "total_vaccinations": 4407.0,
+        "people_vaccinated": 2632.0,
+        "people_fully_vaccinated": 1775.0
       },
       "geometry": {
         "type": "Polygon",
@@ -15007,7 +15166,10 @@
         "COUNTRY": "France",
         "ISO_A2": "-99",
         "POP_EST": 67106161,
-        "infection": 5767541.0
+        "infection": 5767541.0,
+        "total_vaccinations": 27455748.0,
+        "people_vaccinated": 18966771.0,
+        "people_fully_vaccinated": 8632406.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15329,7 +15491,10 @@
         "COUNTRY": "Gabon",
         "ISO_A2": "GA",
         "POP_EST": 1772255,
-        "infection": 23201.0
+        "infection": 23201.0,
+        "total_vaccinations": 10678.0,
+        "people_vaccinated": 8035.0,
+        "people_fully_vaccinated": 2643.0
       },
       "geometry": {
         "type": "Polygon",
@@ -15469,7 +15634,10 @@
         "COUNTRY": "United Kingdom",
         "ISO_A2": "GB",
         "POP_EST": 64769452,
-        "infection": 4441644.0
+        "infection": 4441644.0,
+        "total_vaccinations": 54797640.0,
+        "people_vaccinated": 35906671.0,
+        "people_fully_vaccinated": 18890969.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15715,7 +15883,10 @@
         "COUNTRY": "Georgia",
         "ISO_A2": "GE",
         "POP_EST": 4926330,
-        "infection": 315913.0
+        "infection": 315913.0,
+        "total_vaccinations": 77343.0,
+        "people_vaccinated": 77343.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -15827,7 +15998,10 @@
         "COUNTRY": "Ghana",
         "ISO_A2": "GH",
         "POP_EST": 27499924,
-        "infection": 92828.0
+        "infection": 92828.0,
+        "total_vaccinations": 852047.0,
+        "people_vaccinated": 852047.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -15943,7 +16117,10 @@
         "COUNTRY": "Guinea",
         "ISO_A2": "GN",
         "POP_EST": 12413867,
-        "infection": 22468.0
+        "infection": 22468.0,
+        "total_vaccinations": 202784.0,
+        "people_vaccinated": 143098.0,
+        "people_fully_vaccinated": 59686.0
       },
       "geometry": {
         "type": "Polygon",
@@ -16239,7 +16416,10 @@
         "COUNTRY": "Gambia",
         "ISO_A2": "GM",
         "POP_EST": 2051363,
-        "infection": 5914.0
+        "infection": 5914.0,
+        "total_vaccinations": 24659.0,
+        "people_vaccinated": 24659.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -16319,7 +16499,10 @@
         "COUNTRY": "Guinea-Bissau",
         "ISO_A2": "GW",
         "POP_EST": 1792338,
-        "infection": 3738.0
+        "infection": 3738.0,
+        "total_vaccinations": 5889.0,
+        "people_vaccinated": 5889.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -16411,7 +16594,10 @@
         "COUNTRY": "Equatorial Guinea",
         "ISO_A2": "GQ",
         "POP_EST": 778358,
-        "infection": 7694.0
+        "infection": 7694.0,
+        "total_vaccinations": 75518.0,
+        "people_vaccinated": 64646.0,
+        "people_fully_vaccinated": 10872.0
       },
       "geometry": {
         "type": "Polygon",
@@ -16455,7 +16641,10 @@
         "COUNTRY": "Greece",
         "ISO_A2": "GR",
         "POP_EST": 10768477,
-        "infection": 352027.0
+        "infection": 352027.0,
+        "total_vaccinations": 4079168.0,
+        "people_vaccinated": 2666895.0,
+        "people_fully_vaccinated": 1412273.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16693,7 +16882,10 @@
         "COUNTRY": "Greenland",
         "ISO_A2": "GL",
         "POP_EST": 57713,
-        "infection": 31.0
+        "infection": 31.0,
+        "total_vaccinations": 15308.0,
+        "people_vaccinated": 9715.0,
+        "people_fully_vaccinated": 5593.0
       },
       "geometry": {
         "type": "Polygon",
@@ -17237,7 +17429,10 @@
         "COUNTRY": "Guatemala",
         "ISO_A2": "GT",
         "POP_EST": 15460732,
-        "infection": 231289.0
+        "infection": 231289.0,
+        "total_vaccinations": 245772.0,
+        "people_vaccinated": 243251.0,
+        "people_fully_vaccinated": 2521.0
       },
       "geometry": {
         "type": "Polygon",
@@ -17393,7 +17588,10 @@
         "COUNTRY": "Guyana",
         "ISO_A2": "GY",
         "POP_EST": 737718,
-        "infection": 13829.0
+        "infection": 13829.0,
+        "total_vaccinations": 126800.0,
+        "people_vaccinated": 150694.0,
+        "people_fully_vaccinated": 2800.0
       },
       "geometry": {
         "type": "Polygon",
@@ -17569,7 +17767,10 @@
         "COUNTRY": "Honduras",
         "ISO_A2": "HN",
         "POP_EST": 9038741,
-        "infection": 216964.0
+        "infection": 216964.0,
+        "total_vaccinations": 57639.0,
+        "people_vaccinated": 55000.0,
+        "people_fully_vaccinated": 2639.0
       },
       "geometry": {
         "type": "Polygon",
@@ -17813,7 +18014,10 @@
         "COUNTRY": "Croatia",
         "ISO_A2": "HR",
         "POP_EST": 4292095,
-        "infection": 339412.0
+        "infection": 339412.0,
+        "total_vaccinations": 1268281.0,
+        "people_vaccinated": 980177.0,
+        "people_fully_vaccinated": 288104.0
       },
       "geometry": {
         "type": "Polygon",
@@ -18001,7 +18205,10 @@
         "COUNTRY": "Haiti",
         "ISO_A2": "HT",
         "POP_EST": 10646714,
-        "infection": 13149.0
+        "infection": 13149.0,
+        "total_vaccinations": 0.0,
+        "people_vaccinated": 0.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -18101,7 +18308,10 @@
         "COUNTRY": "Hungary",
         "ISO_A2": "HU",
         "POP_EST": 9850845,
-        "infection": 785967.0
+        "infection": 785967.0,
+        "total_vaccinations": 7110455.0,
+        "people_vaccinated": 4483598.0,
+        "people_fully_vaccinated": 2626857.0
       },
       "geometry": {
         "type": "Polygon",
@@ -18245,7 +18455,10 @@
         "COUNTRY": "Indonesia",
         "ISO_A2": "ID",
         "POP_EST": 260580739,
-        "infection": 1691658.0
+        "infection": 1691658.0,
+        "total_vaccinations": 22617205.0,
+        "people_vaccinated": 13697256.0,
+        "people_fully_vaccinated": 8919949.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19311,7 +19524,10 @@
         "COUNTRY": "India",
         "ISO_A2": "IN",
         "POP_EST": 1281935911,
-        "infection": 21077410.0
+        "infection": 21077410.0,
+        "total_vaccinations": 178361846.0,
+        "people_vaccinated": 139087590.0,
+        "people_fully_vaccinated": 39274256.0
       },
       "geometry": {
         "type": "Polygon",
@@ -19871,7 +20087,10 @@
         "COUNTRY": "Ireland",
         "ISO_A2": "IE",
         "POP_EST": 5011102,
-        "infection": 251087.0
+        "infection": 251087.0,
+        "total_vaccinations": 1922913.0,
+        "people_vaccinated": 1408655.0,
+        "people_fully_vaccinated": 514808.0
       },
       "geometry": {
         "type": "Polygon",
@@ -19939,7 +20158,10 @@
         "COUNTRY": "Iran",
         "ISO_A2": "IR",
         "POP_EST": 82021564,
-        "infection": 2591609.0
+        "infection": 2591609.0,
+        "total_vaccinations": 1767570.0,
+        "people_vaccinated": 1475436.0,
+        "people_fully_vaccinated": 292134.0
       },
       "geometry": {
         "type": "Polygon",
@@ -20259,7 +20481,10 @@
         "COUNTRY": "Iraq",
         "ISO_A2": "IQ",
         "POP_EST": 39192111,
-        "infection": 1091954.0
+        "infection": 1091954.0,
+        "total_vaccinations": 453361.0,
+        "people_vaccinated": 453361.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -20395,7 +20620,10 @@
         "COUNTRY": "Iceland",
         "ISO_A2": "IS",
         "POP_EST": 339747,
-        "infection": 6497.0
+        "infection": 6497.0,
+        "total_vaccinations": 198421.0,
+        "people_vaccinated": 144775.0,
+        "people_fully_vaccinated": 62276.0
       },
       "geometry": {
         "type": "Polygon",
@@ -20491,7 +20719,10 @@
         "COUNTRY": "Israel",
         "ISO_A2": "IL",
         "POP_EST": 8299706,
-        "infection": 838767.0
+        "infection": 838767.0,
+        "total_vaccinations": 10525163.0,
+        "people_vaccinated": 5430921.0,
+        "people_fully_vaccinated": 5094242.0
       },
       "geometry": {
         "type": "Polygon",
@@ -20611,7 +20842,10 @@
         "COUNTRY": "Italy",
         "ISO_A2": "IT",
         "POP_EST": 62137802,
-        "infection": 4070400.0
+        "infection": 4070400.0,
+        "total_vaccinations": 25948925.0,
+        "people_vaccinated": 18074360.0,
+        "people_fully_vaccinated": 8079257.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20985,7 +21219,10 @@
         "COUNTRY": "Jamaica",
         "ISO_A2": "JM",
         "POP_EST": 2990561,
-        "infection": 46194.0
+        "infection": 46194.0,
+        "total_vaccinations": 135473.0,
+        "people_vaccinated": 135473.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -21045,7 +21282,10 @@
         "COUNTRY": "Jordan",
         "ISO_A2": "JO",
         "POP_EST": 10248069,
-        "infection": 716923.0
+        "infection": 716923.0,
+        "total_vaccinations": 1091048.0,
+        "people_vaccinated": 805020.0,
+        "people_fully_vaccinated": 286028.0
       },
       "geometry": {
         "type": "Polygon",
@@ -21137,7 +21377,10 @@
         "COUNTRY": "Japan",
         "ISO_A2": "JP",
         "POP_EST": 126451398,
-        "infection": 617890.0
+        "infection": 617890.0,
+        "total_vaccinations": 5593436.0,
+        "people_vaccinated": 4027333.0,
+        "people_fully_vaccinated": 1566103.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21423,7 +21666,10 @@
         "COUNTRY": "Kazakhstan",
         "ISO_A2": "KZ",
         "POP_EST": 18556698,
-        "infection": 388111.0
+        "infection": 388111.0,
+        "total_vaccinations": 2455655.0,
+        "people_vaccinated": 1757407.0,
+        "people_fully_vaccinated": 698248.0
       },
       "geometry": {
         "type": "Polygon",
@@ -21887,7 +22133,10 @@
         "COUNTRY": "Kenya",
         "ISO_A2": "KE",
         "POP_EST": 47615739,
-        "infection": 161393.0
+        "infection": 161393.0,
+        "total_vaccinations": 930460.0,
+        "people_vaccinated": 930460.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -22051,7 +22300,10 @@
         "COUNTRY": "Kyrgyzstan",
         "ISO_A2": "KG",
         "POP_EST": 5789122,
-        "infection": 96958.0
+        "infection": 96958.0,
+        "total_vaccinations": 43127.0,
+        "people_vaccinated": 37117.0,
+        "people_fully_vaccinated": 6010.0
       },
       "geometry": {
         "type": "Polygon",
@@ -22207,7 +22459,10 @@
         "COUNTRY": "Cambodia",
         "ISO_A2": "KH",
         "POP_EST": 16204486,
-        "infection": 16971.0
+        "infection": 16971.0,
+        "total_vaccinations": 3132686.0,
+        "people_vaccinated": 1996775.0,
+        "people_fully_vaccinated": 1135911.0
       },
       "geometry": {
         "type": "Polygon",
@@ -22291,7 +22546,10 @@
         "COUNTRY": "South Korea",
         "ISO_A2": "KR",
         "POP_EST": 51181299,
-        "infection": 125519.0
+        "infection": 125519.0,
+        "total_vaccinations": 4545683.0,
+        "people_vaccinated": 3719983.0,
+        "people_fully_vaccinated": 825700.0
       },
       "geometry": {
         "type": "Polygon",
@@ -22383,7 +22641,10 @@
         "COUNTRY": "Kosovo",
         "ISO_A2": "XK",
         "POP_EST": 1895250,
-        "infection": 103638.0
+        "infection": 103638.0,
+        "total_vaccinations": 22096.0,
+        "people_vaccinated": 22096.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -22483,7 +22744,10 @@
         "COUNTRY": "Kuwait",
         "ISO_A2": "KW",
         "POP_EST": 2875422,
-        "infection": 280536.0
+        "infection": 280536.0,
+        "total_vaccinations": 1440000.0,
+        "people_vaccinated": 822000.0,
+        "people_fully_vaccinated": 38000.0
       },
       "geometry": {
         "type": "Polygon",
@@ -22535,7 +22799,10 @@
         "COUNTRY": "Laos",
         "ISO_A2": "LA",
         "POP_EST": 7126706,
-        "infection": 1072.0
+        "infection": 1072.0,
+        "total_vaccinations": 563466.0,
+        "people_vaccinated": 474983.0,
+        "people_fully_vaccinated": 88483.0
       },
       "geometry": {
         "type": "Polygon",
@@ -22699,7 +22966,10 @@
         "COUNTRY": "Lebanon",
         "ISO_A2": "LB",
         "POP_EST": 6229794,
-        "infection": 530217.0
+        "infection": 530217.0,
+        "total_vaccinations": 509705.0,
+        "people_vaccinated": 325383.0,
+        "people_fully_vaccinated": 184322.0
       },
       "geometry": {
         "type": "Polygon",
@@ -22759,7 +23029,10 @@
         "COUNTRY": "Liberia",
         "ISO_A2": "LR",
         "POP_EST": 4689021,
-        "infection": 2113.0
+        "infection": 2113.0,
+        "total_vaccinations": 36404.0,
+        "people_vaccinated": 36404.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -22883,7 +23156,10 @@
         "COUNTRY": "Libya",
         "ISO_A2": "LY",
         "POP_EST": 6653210,
-        "infection": 178927.0
+        "infection": 178927.0,
+        "total_vaccinations": 106559.0,
+        "people_vaccinated": 106559.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -23123,7 +23399,10 @@
         "COUNTRY": "Sri Lanka",
         "ISO_A2": "LK",
         "POP_EST": 22409381,
-        "infection": 117529.0
+        "infection": 117529.0,
+        "total_vaccinations": 1309840.0,
+        "people_vaccinated": 1075848.0,
+        "people_fully_vaccinated": 233992.0
       },
       "geometry": {
         "type": "Polygon",
@@ -23179,7 +23458,10 @@
         "COUNTRY": "Lesotho",
         "ISO_A2": "LS",
         "POP_EST": 1958042,
-        "infection": 10749.0
+        "infection": 10749.0,
+        "total_vaccinations": 16000.0,
+        "people_vaccinated": 16000.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -23243,7 +23525,10 @@
         "COUNTRY": "Lithuania",
         "ISO_A2": "LT",
         "POP_EST": 2823859,
-        "infection": 252699.0
+        "infection": 252699.0,
+        "total_vaccinations": 1270898.0,
+        "people_vaccinated": 844043.0,
+        "people_fully_vaccinated": 426855.0
       },
       "geometry": {
         "type": "Polygon",
@@ -23335,7 +23620,10 @@
         "COUNTRY": "Luxembourg",
         "ISO_A2": "LU",
         "POP_EST": 594130,
-        "infection": 67850.0
+        "infection": 67850.0,
+        "total_vaccinations": 255678.0,
+        "people_vaccinated": 183288.0,
+        "people_fully_vaccinated": 72390.0
       },
       "geometry": {
         "type": "Polygon",
@@ -23379,7 +23667,10 @@
         "COUNTRY": "Latvia",
         "ISO_A2": "LV",
         "POP_EST": 1944643,
-        "infection": 120736.0
+        "infection": 120736.0,
+        "total_vaccinations": 460442.0,
+        "people_vaccinated": 361010.0,
+        "people_fully_vaccinated": 101357.0
       },
       "geometry": {
         "type": "Polygon",
@@ -23483,7 +23774,10 @@
         "COUNTRY": "Morocco",
         "ISO_A2": "MA",
         "POP_EST": 33986655,
-        "infection": 512656.0
+        "infection": 512656.0,
+        "total_vaccinations": 10436046.0,
+        "people_vaccinated": 5994379.0,
+        "people_fully_vaccinated": 4441667.0
       },
       "geometry": {
         "type": "Polygon",
@@ -23751,7 +24045,10 @@
         "COUNTRY": "Moldova",
         "ISO_A2": "MD",
         "POP_EST": 3474121,
-        "infection": 251820.0
+        "infection": 251820.0,
+        "total_vaccinations": 216740.0,
+        "people_vaccinated": 187446.0,
+        "people_fully_vaccinated": 29294.0
       },
       "geometry": {
         "type": "Polygon",
@@ -23875,7 +24172,10 @@
         "COUNTRY": "Madagascar",
         "ISO_A2": "MG",
         "POP_EST": 25054161,
-        "infection": 38116.0
+        "infection": 38116.0,
+        "total_vaccinations": 609.0,
+        "people_vaccinated": 609.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -24087,7 +24387,10 @@
         "COUNTRY": "Mexico",
         "ISO_A2": "MX",
         "POP_EST": 124574795,
-        "infection": 2355985.0
+        "infection": 2355985.0,
+        "total_vaccinations": 21986456.0,
+        "people_vaccinated": 14673682.0,
+        "people_fully_vaccinated": 9861173.0
       },
       "geometry": {
         "type": "Polygon",
@@ -24783,7 +25086,10 @@
         "COUNTRY": "Macedonia",
         "ISO_A2": "MK",
         "POP_EST": 2103721,
-        "infection": 153137.0
+        "infection": 153137.0,
+        "total_vaccinations": 0.0,
+        "people_vaccinated": 0.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -24871,7 +25177,10 @@
         "COUNTRY": "Mali",
         "ISO_A2": "ML",
         "POP_EST": 17885245,
-        "infection": 13998.0
+        "infection": 13998.0,
+        "total_vaccinations": 49903.0,
+        "people_vaccinated": 49903.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -25191,7 +25500,10 @@
         "COUNTRY": "Myanmar",
         "ISO_A2": "MM",
         "POP_EST": 55123814,
-        "infection": 142874.0
+        "infection": 142874.0,
+        "total_vaccinations": 2200000.0,
+        "people_vaccinated": 1900000.0,
+        "people_fully_vaccinated": 300000.0
       },
       "geometry": {
         "type": "Polygon",
@@ -25487,7 +25799,10 @@
         "COUNTRY": "Montenegro",
         "ISO_A2": "ME",
         "POP_EST": 642550,
-        "infection": 97930.0
+        "infection": 97930.0,
+        "total_vaccinations": 130545.0,
+        "people_vaccinated": 97783.0,
+        "people_fully_vaccinated": 32762.0
       },
       "geometry": {
         "type": "Polygon",
@@ -25575,7 +25890,10 @@
         "COUNTRY": "Mongolia",
         "ISO_A2": "MN",
         "POP_EST": 3068243,
-        "infection": 41524.0
+        "infection": 41524.0,
+        "total_vaccinations": 2372848.0,
+        "people_vaccinated": 1735389.0,
+        "people_fully_vaccinated": 637459.0
       },
       "geometry": {
         "type": "Polygon",
@@ -25891,7 +26209,10 @@
         "COUNTRY": "Mozambique",
         "ISO_A2": "MZ",
         "POP_EST": 26573706,
-        "infection": 70052.0
+        "infection": 70052.0,
+        "total_vaccinations": 355995.0,
+        "people_vaccinated": 296983.0,
+        "people_fully_vaccinated": 59012.0
       },
       "geometry": {
         "type": "Polygon",
@@ -26223,7 +26544,10 @@
         "COUNTRY": "Mauritania",
         "ISO_A2": "MR",
         "POP_EST": 3758571,
-        "infection": 18542.0
+        "infection": 18542.0,
+        "total_vaccinations": 7038.0,
+        "people_vaccinated": 7038.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -26395,7 +26719,10 @@
         "COUNTRY": "Malawi",
         "ISO_A2": "MW",
         "POP_EST": 19196246,
-        "infection": 34143.0
+        "infection": 34143.0,
+        "total_vaccinations": 330348.0,
+        "people_vaccinated": 330348.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -26523,7 +26850,10 @@
         "COUNTRY": "Malaysia",
         "ISO_A2": "MY",
         "POP_EST": 31381992,
-        "infection": 424376.0
+        "infection": 424376.0,
+        "total_vaccinations": 1894630.0,
+        "people_vaccinated": 1166737.0,
+        "people_fully_vaccinated": 727893.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26793,7 +27123,10 @@
         "COUNTRY": "Namibia",
         "ISO_A2": "NA",
         "POP_EST": 2484780,
-        "infection": 49323.0
+        "infection": 49323.0,
+        "total_vaccinations": 36417.0,
+        "people_vaccinated": 34346.0,
+        "people_fully_vaccinated": 2071.0
       },
       "geometry": {
         "type": "Polygon",
@@ -26985,7 +27318,10 @@
         "COUNTRY": "New Caledonia",
         "ISO_A2": "NC",
         "POP_EST": 279070,
-        "infection": 124.0
+        "infection": 124.0,
+        "total_vaccinations": 75580.0,
+        "people_vaccinated": 43941.0,
+        "people_fully_vaccinated": 31639.0
       },
       "geometry": {
         "type": "Polygon",
@@ -27053,7 +27389,10 @@
         "COUNTRY": "Niger",
         "ISO_A2": "NE",
         "POP_EST": 19245344,
-        "infection": 5286.0
+        "infection": 5286.0,
+        "total_vaccinations": 74106.0,
+        "people_vaccinated": 68158.0,
+        "people_fully_vaccinated": 5948.0
       },
       "geometry": {
         "type": "Polygon",
@@ -27301,7 +27640,10 @@
         "COUNTRY": "Nigeria",
         "ISO_A2": "NG",
         "POP_EST": 190632261,
-        "infection": 165273.0
+        "infection": 165273.0,
+        "total_vaccinations": 1748242.0,
+        "people_vaccinated": 1748242.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -27549,7 +27891,10 @@
         "COUNTRY": "Nicaragua",
         "ISO_A2": "NI",
         "POP_EST": 6025951,
-        "infection": 6989.0
+        "infection": 6989.0,
+        "total_vaccinations": 166350.0,
+        "people_vaccinated": 166350.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -27773,7 +28118,10 @@
         "COUNTRY": "Netherlands",
         "ISO_A2": "NL",
         "POP_EST": 17084719,
-        "infection": 1558549.0
+        "infection": 1558549.0,
+        "total_vaccinations": 6875100.0,
+        "people_vaccinated": 5269132.0,
+        "people_fully_vaccinated": 1713859.0
       },
       "geometry": {
         "type": "Polygon",
@@ -27849,7 +28197,10 @@
         "COUNTRY": "Norway",
         "ISO_A2": "-99",
         "POP_EST": 5320045,
-        "infection": 114905.0
+        "infection": 114905.0,
+        "total_vaccinations": 2108988.0,
+        "people_vaccinated": 1544365.0,
+        "people_fully_vaccinated": 564623.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28231,7 +28582,10 @@
         "COUNTRY": "Nepal",
         "ISO_A2": "NP",
         "POP_EST": 29384297,
-        "infection": 359610.0
+        "infection": 359610.0,
+        "total_vaccinations": 2453512.0,
+        "people_vaccinated": 2091511.0,
+        "people_fully_vaccinated": 362001.0
       },
       "geometry": {
         "type": "Polygon",
@@ -28339,7 +28693,10 @@
         "COUNTRY": "New Zealand",
         "ISO_A2": "NZ",
         "POP_EST": 4510327,
-        "infection": 2633.0
+        "infection": 2633.0,
+        "total_vaccinations": 388877.0,
+        "people_vaccinated": 268787.0,
+        "people_fully_vaccinated": 120090.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28625,7 +28982,10 @@
         "COUNTRY": "Oman",
         "ISO_A2": "OM",
         "POP_EST": 3424386,
-        "infection": 198572.0
+        "infection": 198572.0,
+        "total_vaccinations": 326269.0,
+        "people_vaccinated": 253000.0,
+        "people_fully_vaccinated": 73269.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28835,7 +29195,10 @@
         "COUNTRY": "Pakistan",
         "ISO_A2": "PK",
         "POP_EST": 204924861,
-        "infection": 841636.0
+        "infection": 841636.0,
+        "total_vaccinations": 3836291.0,
+        "people_vaccinated": 2931064.0,
+        "people_fully_vaccinated": 964227.0
       },
       "geometry": {
         "type": "Polygon",
@@ -29115,7 +29478,10 @@
         "COUNTRY": "Panama",
         "ISO_A2": "PA",
         "POP_EST": 3753142,
-        "infection": 365975.0
+        "infection": 365975.0,
+        "total_vaccinations": 779163.0,
+        "people_vaccinated": 520260.0,
+        "people_fully_vaccinated": 258903.0
       },
       "geometry": {
         "type": "Polygon",
@@ -29339,7 +29705,10 @@
         "COUNTRY": "Peru",
         "ISO_A2": "PE",
         "POP_EST": 31036656,
-        "infection": 1818689.0
+        "infection": 1818689.0,
+        "total_vaccinations": 2261096.0,
+        "people_vaccinated": 1528603.0,
+        "people_fully_vaccinated": 732493.0
       },
       "geometry": {
         "type": "Polygon",
@@ -29659,7 +30028,10 @@
         "COUNTRY": "Philippines",
         "ISO_A2": "PH",
         "POP_EST": 104256076,
-        "infection": 1073555.0
+        "infection": 1073555.0,
+        "total_vaccinations": 2542066.0,
+        "people_vaccinated": 2024953.0,
+        "people_fully_vaccinated": 517113.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30141,7 +30513,10 @@
         "COUNTRY": "Papua New Guinea",
         "ISO_A2": "PG",
         "POP_EST": 6909701,
-        "infection": 11273.0
+        "infection": 11273.0,
+        "total_vaccinations": 3000.0,
+        "people_vaccinated": 3000.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30495,7 +30870,10 @@
         "COUNTRY": "Poland",
         "ISO_A2": "PL",
         "POP_EST": 38476269,
-        "infection": 2811951.0
+        "infection": 2811951.0,
+        "total_vaccinations": 15144771.0,
+        "people_vaccinated": 11112068.0,
+        "people_fully_vaccinated": 4241956.0
       },
       "geometry": {
         "type": "Polygon",
@@ -30691,7 +31069,10 @@
         "COUNTRY": "Puerto Rico",
         "ISO_A2": "PR",
         "POP_EST": 3351827,
-        "infection": 133846.0
+        "infection": 133846.0,
+        "total_vaccinations": 0.0,
+        "people_vaccinated": 0.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -30743,7 +31124,10 @@
         "COUNTRY": "Portugal",
         "ISO_A2": "PT",
         "POP_EST": 10839514,
-        "infection": 838102.0
+        "infection": 838102.0,
+        "total_vaccinations": 4284623.0,
+        "people_vaccinated": 3113168.0,
+        "people_fully_vaccinated": 1171431.0
       },
       "geometry": {
         "type": "Polygon",
@@ -30891,7 +31275,10 @@
         "COUNTRY": "Paraguay",
         "ISO_A2": "PY",
         "POP_EST": 6943739,
-        "infection": 288974.0
+        "infection": 288974.0,
+        "total_vaccinations": 175127.0,
+        "people_vaccinated": 159422.0,
+        "people_fully_vaccinated": 15705.0
       },
       "geometry": {
         "type": "Polygon",
@@ -31039,7 +31426,10 @@
         "COUNTRY": "Palestine",
         "ISO_A2": "PS",
         "POP_EST": 4543126,
-        "infection": 299736.0
+        "infection": 299736.0,
+        "total_vaccinations": 466723.0,
+        "people_vaccinated": 271530.0,
+        "people_fully_vaccinated": 195193.0
       },
       "geometry": {
         "type": "Polygon",
@@ -31091,7 +31481,10 @@
         "COUNTRY": "Qatar",
         "ISO_A2": "QA",
         "POP_EST": 2314307,
-        "infection": 208877.0
+        "infection": 208877.0,
+        "total_vaccinations": 1944628.0,
+        "people_vaccinated": 1160213.0,
+        "people_fully_vaccinated": 784415.0
       },
       "geometry": {
         "type": "Polygon",
@@ -31143,7 +31536,10 @@
         "COUNTRY": "Romania",
         "ISO_A2": "RO",
         "POP_EST": 21529967,
-        "infection": 1060895.0
+        "infection": 1060895.0,
+        "total_vaccinations": 6305850.0,
+        "people_vaccinated": 3750015.0,
+        "people_fully_vaccinated": 2568497.0
       },
       "geometry": {
         "type": "Polygon",
@@ -31335,7 +31731,10 @@
         "COUNTRY": "Russia",
         "ISO_A2": "RU",
         "POP_EST": 142257519,
-        "infection": 4792354.0
+        "infection": 4792354.0,
+        "total_vaccinations": 22782931.0,
+        "people_vaccinated": 13653498.0,
+        "people_fully_vaccinated": 9129433.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33905,7 +34304,10 @@
         "COUNTRY": "Rwanda",
         "ISO_A2": "RW",
         "POP_EST": 11901484,
-        "infection": 25421.0
+        "infection": 25421.0,
+        "total_vaccinations": 350400.0,
+        "people_vaccinated": 350400.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -33977,7 +34379,10 @@
         "COUNTRY": "Western Sahara",
         "ISO_A2": "EH",
         "POP_EST": 603253,
-        "infection": 10.0
+        "infection": 10.0,
+        "total_vaccinations": 0.0,
+        "people_vaccinated": 0.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -34105,7 +34510,10 @@
         "COUNTRY": "Saudi Arabia",
         "ISO_A2": "SA",
         "POP_EST": 28571770,
-        "infection": 422316.0
+        "infection": 422316.0,
+        "total_vaccinations": 11195164.0,
+        "people_vaccinated": 0.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -34425,7 +34833,10 @@
         "COUNTRY": "Sudan",
         "ISO_A2": "SD",
         "POP_EST": 37345935,
-        "infection": 34082.0
+        "infection": 34082.0,
+        "total_vaccinations": 140227.0,
+        "people_vaccinated": 140227.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -34765,7 +35176,10 @@
         "COUNTRY": "South Sudan",
         "ISO_A2": "SS",
         "POP_EST": 13026129,
-        "infection": 10613.0
+        "infection": 10613.0,
+        "total_vaccinations": 947.0,
+        "people_vaccinated": 947.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -35033,7 +35447,10 @@
         "COUNTRY": "Senegal",
         "ISO_A2": "SN",
         "POP_EST": 14668522,
-        "infection": 40544.0
+        "infection": 40544.0,
+        "total_vaccinations": 431916.0,
+        "people_vaccinated": 431916.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -35225,7 +35642,10 @@
         "COUNTRY": "Solomon Islands",
         "ISO_A2": "SB",
         "POP_EST": 647581,
-        "infection": 20.0
+        "infection": 20.0,
+        "total_vaccinations": 9340.0,
+        "people_vaccinated": 9340.0,
+        "people_fully_vaccinated": 3479.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35407,7 +35827,10 @@
         "COUNTRY": "Sierra Leone",
         "ISO_A2": "SL",
         "POP_EST": 6163195,
-        "infection": 4068.0
+        "infection": 4068.0,
+        "total_vaccinations": 64966.0,
+        "people_vaccinated": 58250.0,
+        "people_fully_vaccinated": 6716.0
       },
       "geometry": {
         "type": "Polygon",
@@ -35511,7 +35934,10 @@
         "COUNTRY": "El Salvador",
         "ISO_A2": "SV",
         "POP_EST": 6172011,
-        "infection": 69997.0
+        "infection": 69997.0,
+        "total_vaccinations": 1260574.0,
+        "people_vaccinated": 995901.0,
+        "people_fully_vaccinated": 264673.0
       },
       "geometry": {
         "type": "Polygon",
@@ -35607,7 +36033,10 @@
         "COUNTRY": "Somaliland",
         "ISO_A2": "-99",
         "POP_EST": 3500000,
-        "infection": 14121.0
+        "infection": 14121.0,
+        "total_vaccinations": 123570.0,
+        "people_vaccinated": 123570.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -35727,7 +36156,10 @@
         "COUNTRY": "Somalia",
         "ISO_A2": "SO",
         "POP_EST": 7531386,
-        "infection": 14121.0
+        "infection": 14121.0,
+        "total_vaccinations": 0.0,
+        "people_vaccinated": 0.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -35891,7 +36323,10 @@
         "COUNTRY": "Republic of Serbia",
         "ISO_A2": "RS",
         "POP_EST": 7111024,
-        "infection": 695875.0
+        "infection": 695875.0,
+        "total_vaccinations": 3915922.0,
+        "people_vaccinated": 2219205.0,
+        "people_fully_vaccinated": 1696717.0
       },
       "geometry": {
         "type": "Polygon",
@@ -36099,7 +36534,10 @@
         "COUNTRY": "Suriname",
         "ISO_A2": "SR",
         "POP_EST": 591919,
-        "infection": 10696.0
+        "infection": 10696.0,
+        "total_vaccinations": 49902.0,
+        "people_vaccinated": 48904.0,
+        "people_fully_vaccinated": 998.0
       },
       "geometry": {
         "type": "Polygon",
@@ -36219,7 +36657,10 @@
         "COUNTRY": "Slovakia",
         "ISO_A2": "SK",
         "POP_EST": 5445829,
-        "infection": 384317.0
+        "infection": 384317.0,
+        "total_vaccinations": 1897219.0,
+        "people_vaccinated": 1289359.0,
+        "people_fully_vaccinated": 607860.0
       },
       "geometry": {
         "type": "Polygon",
@@ -36367,7 +36808,10 @@
         "COUNTRY": "Slovenia",
         "ISO_A2": "SI",
         "POP_EST": 1972126,
-        "infection": 243719.0
+        "infection": 243719.0,
+        "total_vaccinations": 784447.0,
+        "people_vaccinated": 517430.0,
+        "people_fully_vaccinated": 267017.0
       },
       "geometry": {
         "type": "Polygon",
@@ -36455,7 +36899,10 @@
         "COUNTRY": "Sweden",
         "ISO_A2": "SE",
         "POP_EST": 9960487,
-        "infection": 995595.0
+        "infection": 995595.0,
+        "total_vaccinations": 3957465.0,
+        "people_vaccinated": 3060144.0,
+        "people_fully_vaccinated": 897321.0
       },
       "geometry": {
         "type": "Polygon",
@@ -36631,7 +37078,10 @@
         "COUNTRY": "Swaziland",
         "ISO_A2": "SZ",
         "POP_EST": 1467152,
-        "infection": 18467.0
+        "infection": 18467.0,
+        "total_vaccinations": 35227.0,
+        "people_vaccinated": 35227.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -36691,7 +37141,10 @@
         "COUNTRY": "Syria",
         "ISO_A2": "SY",
         "POP_EST": 18028549,
-        "infection": 23121.0
+        "infection": 23121.0,
+        "total_vaccinations": 2500.0,
+        "people_vaccinated": 2500.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -36815,7 +37268,10 @@
         "COUNTRY": "Chad",
         "ISO_A2": "TD",
         "POP_EST": 12075985,
-        "infection": 4847.0
+        "infection": 4847.0,
+        "total_vaccinations": 0.0,
+        "people_vaccinated": 0.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -37063,7 +37519,10 @@
         "COUNTRY": "Togo",
         "ISO_A2": "TG",
         "POP_EST": 7965055,
-        "infection": 13068.0
+        "infection": 13068.0,
+        "total_vaccinations": 160000.0,
+        "people_vaccinated": 160000.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -37155,7 +37614,10 @@
         "COUNTRY": "Thailand",
         "ISO_A2": "TH",
         "POP_EST": 68414135,
-        "infection": 74900.0
+        "infection": 74900.0,
+        "total_vaccinations": 2124732.0,
+        "people_vaccinated": 1416732.0,
+        "people_fully_vaccinated": 708300.0
       },
       "geometry": {
         "type": "Polygon",
@@ -37427,7 +37889,10 @@
         "COUNTRY": "Tajikistan",
         "ISO_A2": "TJ",
         "POP_EST": 8468555,
-        "infection": 13308.0
+        "infection": 13308.0,
+        "total_vaccinations": 70517.0,
+        "people_vaccinated": 70517.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -37607,7 +38072,10 @@
         "COUNTRY": "East Timor",
         "ISO_A2": "TL",
         "POP_EST": 1291358,
-        "infection": 2786.0
+        "infection": 2786.0,
+        "total_vaccinations": 0.0,
+        "people_vaccinated": 0.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -37667,7 +38135,10 @@
         "COUNTRY": "Trinidad and Tobago",
         "ISO_A2": "TT",
         "POP_EST": 1218208,
-        "infection": 12105.0
+        "infection": 12105.0,
+        "total_vaccinations": 61824.0,
+        "people_vaccinated": 60645.0,
+        "people_fully_vaccinated": 1179.0
       },
       "geometry": {
         "type": "Polygon",
@@ -37715,7 +38186,10 @@
         "COUNTRY": "Tunisia",
         "ISO_A2": "TN",
         "POP_EST": 11403800,
-        "infection": 315600.0
+        "infection": 315600.0,
+        "total_vaccinations": 537380.0,
+        "people_vaccinated": 372240.0,
+        "people_fully_vaccinated": 165140.0
       },
       "geometry": {
         "type": "Polygon",
@@ -37855,7 +38329,10 @@
         "COUNTRY": "Turkey",
         "ISO_A2": "TR",
         "POP_EST": 80845215,
-        "infection": 4955594.0
+        "infection": 4955594.0,
+        "total_vaccinations": 25402277.0,
+        "people_vaccinated": 14732527.0,
+        "people_fully_vaccinated": 10669750.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38149,7 +38626,10 @@
         "COUNTRY": "Taiwan",
         "ISO_A2": "TW",
         "POP_EST": 23508428,
-        "infection": 1160.0
+        "infection": 1160.0,
+        "total_vaccinations": 151997.0,
+        "people_vaccinated": 32389.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -38201,7 +38681,10 @@
         "COUNTRY": "United Republic of Tanzania",
         "ISO_A2": "TZ",
         "POP_EST": 53950935,
-        "infection": 509.0
+        "infection": 509.0,
+        "total_vaccinations": 0.0,
+        "people_vaccinated": 0.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -38425,7 +38908,10 @@
         "COUNTRY": "Uganda",
         "ISO_A2": "UG",
         "POP_EST": 39570125,
-        "infection": 42102.0
+        "infection": 42102.0,
+        "total_vaccinations": 418354.0,
+        "people_vaccinated": 418354.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -38553,7 +39039,10 @@
         "COUNTRY": "Ukraine",
         "ISO_A2": "UA",
         "POP_EST": 44033874,
-        "infection": 2146121.0
+        "infection": 2146121.0,
+        "total_vaccinations": 926520.0,
+        "people_vaccinated": 918162.0,
+        "people_fully_vaccinated": 8358.0
       },
       "geometry": {
         "type": "Polygon",
@@ -38941,7 +39430,10 @@
         "COUNTRY": "Uruguay",
         "ISO_A2": "UY",
         "POP_EST": 3360148,
-        "infection": 209867.0
+        "infection": 209867.0,
+        "total_vaccinations": 2201178.0,
+        "people_vaccinated": 1287006.0,
+        "people_fully_vaccinated": 914172.0
       },
       "geometry": {
         "type": "Polygon",
@@ -39041,7 +39533,10 @@
         "COUNTRY": "United States of America",
         "ISO_A2": "US",
         "POP_EST": 326625791,
-        "infection": 32557444.0
+        "infection": 32557444.0,
+        "total_vaccinations": 266596486.0,
+        "people_vaccinated": 154624231.0,
+        "people_fully_vaccinated": 118987308.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40883,7 +41378,10 @@
         "COUNTRY": "Uzbekistan",
         "ISO_A2": "UZ",
         "POP_EST": 29748859,
-        "infection": 92724.0
+        "infection": 92724.0,
+        "total_vaccinations": 1173978.0,
+        "people_vaccinated": 1057094.0,
+        "people_fully_vaccinated": 116884.0
       },
       "geometry": {
         "type": "Polygon",
@@ -41115,7 +41613,10 @@
         "COUNTRY": "Venezuela",
         "ISO_A2": "VE",
         "POP_EST": 31304016,
-        "infection": 202578.0
+        "infection": 202578.0,
+        "total_vaccinations": 250000.0,
+        "people_vaccinated": 250000.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -41499,7 +42000,10 @@
         "COUNTRY": "Vietnam",
         "ISO_A2": "VN",
         "POP_EST": 96160163,
-        "infection": 3030.0
+        "infection": 3030.0,
+        "total_vaccinations": 892454.0,
+        "people_vaccinated": 887705.0,
+        "people_fully_vaccinated": 37145.0
       },
       "geometry": {
         "type": "Polygon",
@@ -41691,7 +42195,10 @@
         "COUNTRY": "Vanuatu",
         "ISO_A2": "VU",
         "POP_EST": 282814,
-        "infection": 4.0
+        "infection": 4.0,
+        "total_vaccinations": 0.0,
+        "people_vaccinated": 0.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41761,7 +42268,10 @@
         "COUNTRY": "Yemen",
         "ISO_A2": "YE",
         "POP_EST": 28036829,
-        "infection": 6414.0
+        "infection": 6414.0,
+        "total_vaccinations": 18555.0,
+        "people_vaccinated": 18555.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -41953,7 +42463,10 @@
         "COUNTRY": "South Africa",
         "ISO_A2": "ZA",
         "POP_EST": 54841552,
-        "infection": 1588221.0
+        "infection": 1588221.0,
+        "total_vaccinations": 455169.0,
+        "people_vaccinated": 455169.0,
+        "people_fully_vaccinated": 455169.0
       },
       "geometry": {
         "type": "Polygon",
@@ -42347,7 +42860,10 @@
         "COUNTRY": "Zambia",
         "ISO_A2": "ZM",
         "POP_EST": 15972000,
-        "infection": 91849.0
+        "infection": 91849.0,
+        "total_vaccinations": 90916.0,
+        "people_vaccinated": 90916.0,
+        "people_fully_vaccinated": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -42607,7 +43123,10 @@
         "COUNTRY": "Zimbabwe",
         "ISO_A2": "ZW",
         "POP_EST": 13805084,
-        "infection": 38357.0
+        "infection": 38357.0,
+        "total_vaccinations": 730365.0,
+        "people_vaccinated": 549797.0,
+        "people_fully_vaccinated": 180568.0
       },
       "geometry": {
         "type": "Polygon",

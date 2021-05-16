@@ -1,9 +1,25 @@
 import Globe from 'react-globe.gl';
-import { useState, useEffect, useRef, useMemo } from 'react';
+import { useState, useEffect, useRef, useMemo, React } from 'react';
+import { makeStyles } from '@material-ui/core/styles';
+import Button from '@material-ui/core/Button';
+import Typography from '@material-ui/core/Typography';
+import Paper from '@material-ui/core/Button';
 import * as d3 from 'd3';
 var cors = require('cors')
 
+const useStyles = makeStyles({
+  paper: {
+    width: '70px',
+    height: '80px',
+    background: 'blue',
+  },
+  title: {
+    fontSize: 14,
+  },
+});
+
 function App() {
+  const classes = useStyles();
 
   const World = () => {
     const [countries, setCountries] = useState({ features: []});
@@ -27,7 +43,7 @@ function App() {
 
     return <Globe
       globeImageUrl="//unpkg.com/three-globe/example/img/earth-night.jpg"
-      backgroundImageUrl="//unpkg.com/three-globe/example/img/night-sky.png"
+      //backgroundImageUrl="//unpkg.com/three-globe/example/img/night-sky.png"
       lineHoverPrecision={0}
 
       polygonsData={countries.features.filter(d => d.properties.ISO_A2 !== 'AQ')}
@@ -35,18 +51,26 @@ function App() {
       polygonCapColor={d => d === hoverD ? 'steelblue' : colorScale(getVal(d))}
       polygonSideColor={() => 'rgba(0, 100, 0, 0.15)'}
       polygonStrokeColor={() => '#111'}
-      polygonLabel={({ properties: d }) => `
-        <b >${d.COUNTRY} (${d.ISO_A2}):</b> <br />
-        <i style="color:red;">infection count: ${d.infection}</i><br/>
-        <i>Population: ${d.POP_EST}</i>
-      `}
+      polygonLabel={({ properties: d }) =>
+        `<Button>
+          <b >${d.COUNTRY} (${d.ISO_A2}):</b> <br />
+          <i style="color:red;">infection count: ${d.infection}</i><br/>
+          <i style="color:blue;">vaccine count: ${d.total_vaccinations}</i><br/>
+          <i>Population: ${d.POP_EST}</i>
+        </Button>`
+      }
       onPolygonHover={setHoverD}
       polygonsTransitionDuration={300}
     />;
   };
 
   return (
-    <World />
+    <div>
+      <Button>
+        click here
+      </Button>  
+      <World />
+    </div>
   )
 }
 
