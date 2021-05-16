@@ -3,9 +3,8 @@ import { useState, useEffect, useRef, useMemo, React } from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
-import Paper from '@material-ui/core/Button';
 import * as d3 from 'd3';
-var cors = require('cors')
+import LineChart from './LineChart';
 
 const useStyles = makeStyles({
   paper: {
@@ -20,6 +19,7 @@ const useStyles = makeStyles({
 
 function App() {
   const classes = useStyles();
+  const [page, setPage] = useState(0);
 
   const World = () => {
     const [countries, setCountries] = useState({ features: []});
@@ -43,7 +43,7 @@ function App() {
 
     return <Globe
       globeImageUrl="//unpkg.com/three-globe/example/img/earth-night.jpg"
-      //backgroundImageUrl="//unpkg.com/three-globe/example/img/night-sky.png"
+      backgroundImageUrl="//unpkg.com/three-globe/example/img/night-sky.png"
       lineHoverPrecision={0}
 
       polygonsData={countries.features.filter(d => d.properties.ISO_A2 !== 'AQ')}
@@ -61,15 +61,28 @@ function App() {
       }
       onPolygonHover={setHoverD}
       polygonsTransitionDuration={300}
-    />;
+    />
   };
+
+  const changePage = () => {
+    if (page === 0) {
+      setPage(1)
+    } else {
+      setPage(0)
+    }
+  }
+
+  useEffect(() => {
+
+  }, [page])
 
   return (
     <div>
-      <Button>
-        click here
+      <Button onClick={changePage}>
+        Change Page
       </Button>  
-      <World />
+      {page === 0 ? <World /> : <LineChart />}
+      
     </div>
   )
 }
