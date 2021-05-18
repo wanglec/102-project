@@ -63,14 +63,14 @@ function App() {
       polygonLabel={({ properties: d }) =>
         `<Button>
           <b >${d.COUNTRY} (${d.ISO_A2}):</b> <br />
-          <i style="color:red;">infection count: ${d.infection}</i><br/>
-          <i style="color:blue;">vaccine count: ${d.total_vaccinations}</i><br/>
+          <i style="color:red;">Infection: ${d.infection}</i><br/>
+          <i style="color:black;">Death: ${d.death}</i><br/>
+          <i style="color:blue;">Recovery: ${d.recover}</i><br/>
           <i>Population: ${d.POP_EST}</i>
         </Button>`
       }
       onPolygonHover={setHoverD}
       polygonsTransitionDuration={300}
-      // onPolygonClick={({ properties: d }) => {console.log(d.COUNTRY)}}
     />
   };
 
@@ -78,7 +78,7 @@ function App() {
     <div>
       <Box style={{display:'flex', flexDirection:'row', justifyContent:'space-between'}}>
         <Box width='50vh'>
-          <h3>Top 10 of infection</h3>
+          <h3>Most Infection Country</h3>
           <BarChart width={450} height={300} data={infection_data} layout='vertical'>
               <YAxis type="category" dataKey="country" fontSize='10'/>
               <XAxis type="number"/>
@@ -86,7 +86,7 @@ function App() {
               <Legend />
               <Bar dataKey="infection" fill="#ff0000" />
           </BarChart>
-          <h3>Top 10 of vaccination</h3>
+          <h3>Most Vaccination Country</h3>
           <BarChart width={450} height={300} data={vac_data} layout='vertical'>
               <YAxis type="category" dataKey="country" fontSize='10'/>
               <XAxis type="number"/>
