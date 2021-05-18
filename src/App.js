@@ -1,9 +1,9 @@
 import Globe from 'react-globe.gl';
 import { useState, useEffect, useMemo, React } from 'react';
-import { Box, Button } from '@material-ui/core'
+import { Box } from '@material-ui/core'
 import * as d3 from 'd3';
-import GraphAll from './GraphAll';
-import { BarChart, Bar, CartesianGrid, XAxis, YAxis, Tooltip, Legend } from 'recharts';
+//import GraphAll from './GraphAll';
+import { BarChart, Bar, XAxis, YAxis, Tooltip, Legend } from 'recharts';
 
 function App() {
   const vac_data = [{country: 'China', total_vaccine: 366910000},
@@ -27,8 +27,6 @@ function App() {
     {country: 'Italy', infection: 4070400},
     {country: 'Spain', infection: 3551262},
     {country: 'Germany', infection: 3484755}];
-
-  const [page, setPage] = useState(0);
 
   const World = () => {
     const [countries, setCountries] = useState({ features: []});
@@ -76,28 +74,12 @@ function App() {
     />
   };
 
-  const changePage = () => {
-    if (page === 0) {
-      setPage(1);
-    } else {
-      setPage(0);
-    }
-  }
-
-  useEffect(() => {
-
-  }, [page])
-
   return (
     <div>
-      <Button onClick={changePage} style={{background: 'steelblue'}}>
-        Switch
-      </Button>
-      {page === 0 ?
       <Box style={{display:'flex', flexDirection:'row', justifyContent:'space-between'}}>
         <Box width='50vh'>
           <h3>Top 10 of infection</h3>
-          <BarChart width={400} height={300} data={infection_data} layout='vertical'>
+          <BarChart width={450} height={300} data={infection_data} layout='vertical'>
               <YAxis type="category" dataKey="country" fontSize='10'/>
               <XAxis type="number"/>
               <Tooltip />
@@ -105,7 +87,7 @@ function App() {
               <Bar dataKey="infection" fill="#ff0000" />
           </BarChart>
           <h3>Top 10 of vaccination</h3>
-          <BarChart width={500} height={300} data={vac_data} layout='vertical'>
+          <BarChart width={450} height={300} data={vac_data} layout='vertical'>
               <YAxis type="category" dataKey="country" fontSize='10'/>
               <XAxis type="number"/>
               <Tooltip />
@@ -115,7 +97,6 @@ function App() {
         </Box>
         <World /> 
       </Box>
-      : <GraphAll />}
     </div>
   )
 }

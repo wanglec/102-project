@@ -106,8 +106,7 @@ function GraphAll() {
             <XAxis 
                 dataKey="date" 
                 domain = {['auto', 'auto']} 
-                tickFormatter = {(unixTime) => moment(unixTime).format('YYYY/MM/DD')} 
-                type = 'category'/>
+                tickFormatter = {(unixTime) => moment(unixTime).format('YYYYMMDD')} />
             <YAxis />
             <Tooltip />
             <Legend />
