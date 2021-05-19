@@ -1,6 +1,6 @@
 import Globe from 'react-globe.gl';
 import { useState, useEffect, useMemo, React } from 'react';
-import { Box } from '@material-ui/core'
+import { Box, Typography } from '@material-ui/core'
 import * as d3 from 'd3';
 //import GraphAll from './GraphAll';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, Legend } from 'recharts';
@@ -76,6 +76,9 @@ function App() {
 
   return (
     <div>
+      <Typography variant='h4' style={{display:'flex', flexDirection:'row', justifyContent:'center'}}>
+        COVID 19 Global Stats
+      </Typography>
       <Box style={{display:'flex', flexDirection:'row', justifyContent:'space-between'}}>
         <Box width='50vh'>
           <h3>Most Infection Country</h3>
